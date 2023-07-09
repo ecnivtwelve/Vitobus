@@ -1,0 +1,7 @@
+{
+  "name": "Vitobus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

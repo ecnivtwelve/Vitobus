@@ -1,0 +1,300 @@
+{
+  "line_a": [
+    {
+      "name": "Mélinais",
+      "coordinates": "48,1299975, -1,2142882"
+    },
+    {
+      "name": "Douves",
+      "coordinates": "48,1342354, -1,2142886"
+    },
+    {
+      "name": "Le Chalet",
+      "coordinates": "48,1332365, -1,2206454"
+    },
+    {
+      "name": "Montreuil sous Pérousse - Gérard",
+      "coordinates": "48,1418656, -1,2485348"
+    },
+    {
+      "name": "Montreuil sous Pérousse - Rue Ribert",
+      "coordinates": "48,1502122, -1,2391827"
+    },
+    {
+      "name": "Le Haut Chalet",
+      "coordinates": "48,1318309, -1,2247215"
+    },
+    {
+      "name": "Route de Combourg",
+      "coordinates": "48,1309547, -1,2212507"
+    },
+    {
+      "name": "Bellevue",
+      "coordinates": "48,1304676, -1,2188292"
+    },
+    {
+      "name": "Villaudin",
+      "coordinates": "48,1292690, -1,2123278"
+    },
+    {
+      "name": "Fougères",
+      "coordinates": "48,1273158, -1,2139708"
+    },
+    {
+      "name": "Pasteur",
+      "coordinates": "48,1257174, -1,2160214"
+    },
+    {
+      "name": "Saint-Yves",
+      "coordinates": "48,1235730, -1,2156917"
+    },
+    {
+      "name": "Gare Saint-Yves",
+      "coordinates": "48,1231184, -1,2134384"
+    },
+    {
+      "name": "Gare Saint-Martin",
+      "coordinates": "48,1233352, -1,2093340"
+    },
+    {
+      "name": "Saint-Martin",
+      "coordinates": "48,1230143, -1,2063411"
+    },
+    {
+      "name": "Landais",
+      "coordinates": "48,1211485, -1,2056036"
+    },
+    {
+      "name": "Champ de Foire",
+      "coordinates": "48,1192850, -1,2054060"
+    },
+    {
+      "name": "Halle du Parc",
+      "coordinates": "48,1163670, -1,2047419"
+    },
+    {
+      "name": "Le Mée",
+      "coordinates": "48,1132956, -1,2029505"
+    },
+    {
+      "name": "La Fleuriais",
+      "coordinates": "48,1107344, -1,2049036"
+    },
+    {
+      "name": "Lymington",
+      "coordinates": "48,1073280, -1,2066350"
+    },
+    {
+      "name": "Cézanne",
+      "coordinates": "48,1077167, -1,2014368"
+    },
+    {
+      "name": "Djenné",
+      "coordinates": "48,1073648, -1,1978023"
+    },
+    {
+      "name": "Guilmarais",
+      "coordinates": "48,1053377, -1,1955816"
+    },
+    {
+      "name": "Les Serres",
+      "coordinates": "48,1049990, -1,1949406"
+    },
+    {
+      "name": "Saint-Étienne",
+      "coordinates": "48,1095948, -1,1987192"
+    }
+  ],
+  "line_b": [
+    {
+      "name": "Pocé les Bois - Église",
+      "coordinates": "48,1148606, -1,2497202"
+    },
+    {
+      "name": "Pocé Les Bois - Petit Morin",
+      "coordinates": "48,1162326, -1,2536522"
+    },
+    {
+      "name": "Massonnais",
+      "coordinates": "48,1225095, -1,2307991"
+    },
+    {
+      "name": "Hôpital",
+      "coordinates": "48,1227584, -1,2272164"
+    },
+    {
+      "name": "Champagne",
+      "coordinates": "48,1218376, -1,2269407"
+    },
+    {
+      "name": "Lycée La Champagne",
+      "coordinates": "48,1212368, -1,2300627"
+    },
+    {
+      "name": "Gare Saint-Yves",
+      "coordinates": "48,1231184, -1,2134384"
+    },
+    {
+      "name": "Saint-Yves",
+      "coordinates": "48,1235730, -1,2156917"
+    },
+    {
+      "name": "Gare Saint-Martin",
+      "coordinates": "48,1233352, -1,2093340"
+    },
+    {
+      "name": "Saint-Martin",
+      "coordinates": "48,1230143, -1,2063411"
+    },
+    {
+      "name": "Landais",
+      "coordinates": "48,1211485, -1,2056036"
+    },
+    {
+      "name": "Brest",
+      "coordinates": "48,1234205, -1,2208033"
+    },
+    {
+      "name": "Dojo",
+      "coordinates": "48,1195094, -1,2025759"
+    },
+    {
+      "name": "Hugo",
+      "coordinates": "48,1189610, -1,1990068"
+    },
+    {
+      "name": "Guerin / Chesnier",
+      "coordinates": "48,1163298, -1,1994818"
+    },
+    {
+      "name": "Botrel",
+      "coordinates": "48,1155240, -1,1978308"
+    },
+    {
+      "name": "Debussy",
+      "coordinates": "48,1156852, -1,1956281"
+    },
+    {
+      "name": "La Motte",
+      "coordinates": "48,1166817, -1,1945551"
+    },
+    {
+      "name": "Route des Eaux",
+      "coordinates": "48,1181355, -1,1910705"
+    },
+    {
+      "name": "Réservoir Plagué",
+      "coordinates": "48,1172915, -1,1895805"
+    },
+    {
+      "name": "Pierre et Marie Curie",
+      "coordinates": "48,1148181, -1,1912860"
+    },
+    {
+      "name": "Les Landes",
+      "coordinates": "48,1117666, -1,1884429"
+    },
+    {
+      "name": "René Dumont",
+      "coordinates": "48,1118400, -1,1853879"
+    },
+    {
+      "name": "Les Perrines",
+      "coordinates": "48,1142223, -1,1869259"
+    },
+    {
+      "name": "Piltière",
+      "coordinates": "48,1118696, -1,1825783"
+    },
+    {
+      "name": "Lactalis",
+      "coordinates": "48,1080674, -1,1730738"
+    }
+  ],
+  "line_c": [
+    {
+      "name": "Rond Point d'Erbrée",
+      "coordinates": "48,1196099, -1,1658124"
+    },
+    {
+      "name": "La Roncinière",
+      "coordinates": "48,1208933, -1,1800470"
+    },
+    {
+      "name": "Z.A.C Roncinière",
+      "coordinates": "48,1186957, -1,1829024"
+    },
+    {
+      "name": "La Basse Gasniais",
+      "coordinates": "48,1221988, -1,1879318"
+    },
+    {
+      "name": "Boulevard de Laval",
+      "coordinates": "48,1228802, -1,1929473"
+    },
+    {
+      "name": "Poultière",
+      "coordinates": "48,1231012, -1,1951563"
+    },
+    {
+      "name": "Aurore",
+      "coordinates": "48,1238044, -1,2009263"
+    },
+    {
+      "name": "Saint-Martin",
+      "coordinates": "48,1231416, -1,2062316"
+    },
+    {
+      "name": "Gare Saint-Martin",
+      "coordinates": "48,1233352, -1,2093340"
+    },
+    {
+      "name": "Trémoille",
+      "coordinates": "48,1202000, -1,2098833"
+    },
+    {
+      "name": "Châteaubriant",
+      "coordinates": "48,1188578, -1,2100906"
+    },
+    {
+      "name": "Kiosque du Parc",
+      "coordinates": "48,1175669, -1,2102492"
+    },
+    {
+      "name": "Louis Giroux",
+      "coordinates": "48,1170779, -1,2121389"
+    },
+    {
+      "name": "Raoul David",
+      "coordinates": "48,1172740, -1,2167472"
+    },
+    {
+      "name": "Etoile",
+      "coordinates": "48,1160101, -1,2168460"
+    },
+    {
+      "name": "Beauvais",
+      "coordinates": "48,1147532, -1,2186826"
+    },
+    {
+      "name": "Beauvais Centre",
+      "coordinates": "48,1143624, -1,2200444"
+    },
+    {
+      "name": "Beauvais Jaunais",
+      "coordinates": "48,1129070, -1,2228142"
+    },
+    {
+      "name": "Baratière",
+      "coordinates": "48,1091397, -1,2144747"
+    },
+    {
+      "name": "Château d'Eau",
+      "coordinates": "48,1117821, -1,2130880"
+    },
+    {
+      "name": "Maison Rouge",
+      "coordinates": "48,1137836, -1,2145247"
+    }
+  ]
+}
